@@ -1,2 +1,3 @@
-# android_device_samsung_golden
-Device tree to Samsung Galaxy S3 Mini (GT-I8190) for Lineage 16.0
+# Device configuration for Samsung Galaxy S3 Mini (GT-I8190)
+
+He who waits........
